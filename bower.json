@@ -1,0 +1,23 @@
+{
+  "name": "emberjs-touch",
+  "version": "0.0.0",
+  "homepage": "https://github.com/substantial/emberjs-touch",
+  "authors": [
+    "James Hight"
+  ],
+  "description": "ember.js touch event helpers",
+  "main": "lib/ember-fastclick.js",
+  "keywords": [
+    "emberjs",
+    "touchstart",
+    "events"
+  ],
+  "license": "Apache License, Version 2.0",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
